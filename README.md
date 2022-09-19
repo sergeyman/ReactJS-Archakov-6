@@ -1,2 +1,2 @@
-# ReactJS-Archakov-6-
+# ReactJS-Archakov-6
 6+ разных ReactJS проектов
